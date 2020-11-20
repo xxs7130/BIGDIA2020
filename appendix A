@@ -1,0 +1,36 @@
+	\section{Factors Explaination} \label{appen: factors explain}
+	\begin{itemize}
+	      \item \textbf{Population structure:} Population structure refers to the division of the population into its constituent parts according to different characteristics of the population. It reflects the amount of labor and social burdens. The larger the proportion of the labor force in the population structure, the greater the support that can be provided for economic vitality. Here, we use proportion of the number of staff in total registered population to represents the regional population structure.
+	      \item \textbf{Passenger traffic:} Passenger traffic refers to the actual number of passengers transported by the transportation department within a certain period of time, and reflects the number of regional floating population and the degree of convenience of urban external transportation. Generally speaking, the more convenient the external external transportation is, the greater the external development potential. Here, we express this factor in terms of passenger traffic.
+	      \item \textbf{Education level:} Education level refers to the education level of a region's population, reflects the region's talent structure and innovation ability, and plays an important role in enterprise development and decision-making. Here, we express it as the proportion of the total number of college students in the local area. 
+	      \item \textbf{Residence income:}
+	      Residence income represents the total value created by workers in a region's production sector over a period of time. This indicator can roughly reflect the level of economic development of a region. Here, we use the per capita income of residents to represent their income.
+	      \item \textbf{Residence expenditure:}
+	      Residence expenditure refer to the total expenditure of residents and households for living consumption and collective consumption for personal consumption, reflects the cost of living in the region. Here, we use the per capita consumption expenditure of residents to represent their expenditure.
+	      \item \textbf{Housing area:}
+	      The housing area includes the housing living area and housing construction area, related to the degree of satisfaction of residents with the region, reflecting the region's ability to attract talents.  Here, we use
+	      the per capita housing area to represent housing area.
+	      \item \textbf{Intra-city traffic:}
+	      Intra-city traffic is a general term for all types of transportation that connect various components of a region. It represents the accessibility of traffic in the region, reduces the transportation cost of materials and accelerates the spread of resources. Here, we represent it by the ratio of regional road area to regional area.
+	      \item \textbf{Public facilities:}
+	      Public facilities are public buildings or equipment provided by the government or other social organizations.
+	      It reflects the quality of public welfare and affect the attractiveness of talents.
+	      Here, we represent it by the ratio of park area to regional area.
+	      \item \textbf{Economic density:}
+	      Economic density refers to the ratio of regional GDP to regional area.
+	      It represents the economic rent and economic benefits of urban unit space and the usage of land. Here, we calculate it according to tis definition.
+	      \item \textbf{Economic growth:}
+	      It represents the city's economic growth, reflecting the speed and scale of urban income expansion.
+	      \item \textbf{Radiation of surrounding:} Represents the impact of surrounding cities' radiation on the current urban economy.
+	      \item \textbf{Industrial structure:} Represents the current status  and the path of economic development, has an effect on the economic potential of the city.
+	      \item \textbf{Government intervention:} Represents the degree of economic openness and the role of government in economic development.
+	      \item \textbf{Government tax:} Indicates the main source of government revenue and corporate burden.
+	      \item \textbf{Fixed assets investment:} Fixed asset investment can increase the speed of regional capital accumulation, stimulate market demand in the short term, and increase supply capacity in the long term.
+	      \item \textbf{Foreign investment:}  Foreign investment meets the large demand for capital and technology for urban economic development.
+	      \item \textbf{Tourism income:} Tourism can effectively promote the development of incidental industries, promote the exchange of talents, and increase the visibility of cities.
+	      \item \textbf{Quantity of surviving enterprises:} The number of surviving enterprises reflects the economic and industrial environment of a region.
+	      \item \textbf{Enterprise output:} Enterprise output is one of the most direct and major contributions made by an enterprise to the development of a city's economy.
+	      \item \textbf{Quantity of new products:} The number of new production products shows the innovation ability of the enterprises in a region.
+	      \item \textbf{Quantity of patents:} The number of patents represents the research and innovation capabilities of enterprises, and affects regional economic vitality.
+	    \end{itemize}
+
